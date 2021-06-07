@@ -1,4 +1,4 @@
-# Script de l'application Pepper de présentation de l'école IMERIR
+# Script de l'application Android de présentation de l'école IMERIR
 
 ## Table des matières
 
@@ -37,4 +37,4 @@ Les imériens étudiants dans la formation Manager de systèmes informatiques et
 <a name="fablab_et-marketspace"></a>
 ## Fablab et makerspace
 
-L’IMERIR dispose d’un makerspace, un espace numérique qui permet d'accéder à des machines habituellement réservées à des professionnels mais ici à des fins d'innovation, de prototypage ou de production à petite échelle. Cet espace dispose d’une découpeuse laser, d’une fraiseuse numérique, d’imprimantes 3D, de matériel électronique pour s’exercer en cybersécurité et de robots humanoïdes comme moi Pepper et de robots industriels comme mon ami le Cobot Universal Robot. L’école est aussi partenaire avec le Fablab Orles Valley, le fablab de Perpignan situé en face. Il s’agit d’un atelier d’innovation, de fabrication et de prototypage qui met à la disposition de ses utilisateurs des machines ainsi que le savoir-faire nécessaire pour les utiliser. Contrairement au makerspace, le fablab vous permettra de mettre sur pied des projets plus ambitieux et innovants. J’ai tout dis.
+L’IMERIR dispose d’un makerspace, un espace numérique qui permet d'accéder à des machines habituellement réservées à des professionnels mais ici à des fins d'innovation, de prototypage ou de production à petite échelle. Cet espace dispose d’une découpeuse laser, d’une fraiseuse numérique, d’imprimantes 3D, de matériel électronique pour s’exercer en cybersécurité et de robots humanoïdes comme Pepper et de robots industriels comme le Cobot Universal Robot. L’école est aussi partenaire avec le Fablab Orles Valley, le fablab de Perpignan situé en face. Il s’agit d’un atelier d’innovation, de fabrication et de prototypage qui met à la disposition de ses utilisateurs des machines ainsi que le savoir-faire nécessaire pour les utiliser. Contrairement au makerspace, le fablab vous permettra de mettre sur pied des projets plus ambitieux et innovants. J’ai tout dis.

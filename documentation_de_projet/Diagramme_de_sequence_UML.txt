@@ -1,0 +1,10 @@
+﻿@startuml
+Imérien -> tablette_numérique_Android: Active l'application sur la tablette numérique
+Prospect -> tablette_numérique_Android: Pose sa question
+tablette_numérique_Android -> Prospect: Répond à sa question
+tablette_numérique_Android -> Prospect: Demande de continuer sa présentation
+Prospect -> tablette_numérique_Android: Envoie sa réponse ("Oui" ou "Non")
+tablette_numérique_Android -> Prospect: Envoie un message de remerciements, d'information et d'au revoir
+tablette_numérique_Android -> tablette_numérique_Android: Termine l'application et revient au menu principal
+Imérien -> tablette_numérique_Android: Réactive l'application sur la tablette numérique
+@enduml

@@ -1,0 +1,17 @@
+@startuml
+"Pose une question à la tablette numérique" as (Question_a_la_tablette)
+"Réponds à la question posée par le prospect" as (Reponds_au_prospect)
+"Surveille et s'occupe de la tablette numérique Android" as (Surveille_et_s_occupe_de_la_tablette_numerique_Android)
+"Active/réactive l'application de présentation de l'école sur la tablette numérique Android" as (Active_l_application_de_presentation_de_l_ecole)
+"Mets à jour ses informations selon ce que demande le responsable IMERIR" as (Mise_a_jour_de_la_tablette_numerique_Android)
+
+"Tablette numérique Android" as Tablette_numerique_Android
+"Responsable IMERIR" as Responsable_IMERIR
+
+Prospect --> (Question_a_la_tablette)
+Tablette_numerique_Android --> (Mise_a_jour_de_la_tablette_numerique_Android)
+Tablette_numerique_Android --> (Reponds_au_prospect)
+Responsable_IMERIR --> (Surveille_et_s_occupe_de_la_tablette_numerique_Android)
+Responsable_IMERIR --> (Active_l_application_de_presentation_de_l_ecole)
+
+@enduml

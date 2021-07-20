@@ -10,9 +10,10 @@ Ce projet consiste à développer une application pour un appareil Android (smar
 4. [Développement du projet](#developpement_du_projet)
 5. [Composition du projet](#composition_du_projet)
 6. [Pré-requis techniques](#prerequis_techniques)
-7. [Comment l'installer sur un appareil Android ?](#comment_l_installer_sur_un_appareil_Android)
-8. [Liens utiles](#liens_utiles)
-9. [Conclusion](#conclusion)
+7. [Comment le déployer sur Google play ?](#comment_le_deployer_sur_google_play)
+8. [Comment l'installer sur un appareil Android ?](#comment_l_installer_sur_un_appareil_Android)
+9. [Liens utiles](#liens_utiles)
+10. [Conclusion](#conclusion)
 
 <a name="introduction"></a>
 ## Introduction
@@ -31,6 +32,9 @@ Ce projet consiste à développer une application pour un appareil Android (smar
 
 <a name="prerequis_techniques"></a>
 ## Pré-requis techniques
+
+<a name="comment_le_deployer_sur_google_play"></a>
+## Comment le déployer sur Google play ?
 
 <a name="comment_l_installer_sur_un_appareil_Android"></a>
 ## Comment l'installer sur un appareil Android ?

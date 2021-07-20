@@ -10,7 +10,7 @@ Ce projet consiste à développer une application pour un appareil Android (smar
 4. [Développement du projet](#developpement_du_projet)
 5. [Composition du projet](#composition_du_projet)
 6. [Pré-requis techniques](#prerequis_techniques)
-7. [Comment le faire fonctionner sur le robot Pepper ?](#comment_le_faire_fonctionner_sur_le_robot_Pepper)
+7. [Comment l'installer sur un appareil Android ?](#comment_l_installer_sur_un_appareil_Android)
 8. [Liens utiles](#liens_utiles)
 9. [Conclusion](#conclusion)
 
@@ -32,8 +32,8 @@ Ce projet consiste à développer une application pour un appareil Android (smar
 <a name="prerequis_techniques"></a>
 ## Pré-requis techniques
 
-<a name="comment_le_faire_fonctionner_sur_le_robot_Pepper"></a>
-## Comment le faire fonctionner sur le robot Pepper ?
+<a name="comment_l_installer_sur_un_appareil_Android"></a>
+## Comment l'installer sur un appareil Android ?
 
 <a name="liens_utiles"></a>
 ## Liens utiles
